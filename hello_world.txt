@@ -4,3 +4,5 @@ Este es un archivo que voy a comaprtir con ustedes
 
 
 algún cambio estadísticcas descriptivas
+
+Este es en RStudio.
