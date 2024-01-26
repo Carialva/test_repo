@@ -1,0 +1,11 @@
+Erling Barth, James C. Davis, Richard B. Freeman, Kristina McElheran,
+Twisting the demand curve: Digitalization and the older workforce,
+Journal of Econometrics,
+Volume 233, Issue 2,
+2023,
+Pages 443-467,
+ISSN 0304-4076,
+https://doi.org/10.1016/j.jeconom.2021.12.003.
+(https://www.sciencedirect.com/science/article/pii/S0304407621003018)
+Abstract: Software represents a major and fast-growing share of firms’ capital investment, impacting demand for labor and what workers do on their jobs. Using U.S. Census Bureau panel data that link firms and workers, this paper estimates the effect of firm software capital on the earnings of workers by age group. We extend the AKM framework to include job-spell fixed effects that account for potential correlation between the worker–firm match and employee age, as well as including time-varying firm effects that allow for a correlation between wage-enhancing productivity shocks and software investments. Within job-spell, capitalized software investment raises worker earnings. However, it does so at a rate that declines after the age of 50, to about zero beyond 65. Our data further show that software capital increases the earnings of high-wage workers relative to low-wage workers and earnings in high-wage firms relative to low-wage firms, thereby widening earnings inequality within and across firms.
+Keywords: Software investments; Earnings equations; The AKM model; Age-biased technical change; Digitization
